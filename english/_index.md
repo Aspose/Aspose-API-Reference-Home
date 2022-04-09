@@ -7,13 +7,13 @@ weight: 10
 
 {{% blocks/product-row %}}
 
-{{< blocks/product-card title="**Aspose.Words**" href="#" >}}
+{{< blocks/product-card title="**Aspose.Words**" href="/words/" >}}
 
 {{< blocks/card-item-text >}}
 Create, edit, convert or print Word documents in your application. Includes 7 individual products for various platforms.
 {{< /blocks/card-item-text >}}
 
-{{< blocks/product-item title=".NET" href="#" class="btn-net"  >}}
+{{< blocks/product-item title=".NET" href="/words/net/" class="btn-net"  >}}
 {{< blocks/product-item title="JAVA" href="#" class="btn-java" >}}
 {{< blocks/product-item title="C++" href="#" class="btn-c" >}}
 
