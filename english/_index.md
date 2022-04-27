@@ -14,20 +14,20 @@ Create, edit, convert or print Word documents in your application. Includes 7 in
 {{< /blocks/card-item-text >}}
 
 {{< blocks/product-item title=".NET" href="/words/net/" class="btn-net"  >}}
-{{< blocks/product-item title="JAVA" href="#" class="btn-java" >}}
-{{< blocks/product-item title="C++" href="#" class="btn-c" >}}
+{{< blocks/product-item title="JAVA" href="/words/java/" class="btn-java" >}}
+{{< blocks/product-item title="C++" href="/words/cpp/" class="btn-c" >}}
 
 {{< /blocks/product-card >}}
 
-{{< blocks/product-card title="**Aspose.PDF**" href="#" >}}
+{{< blocks/product-card title="**Aspose.PDF**" href="/pdf/" >}}
 
 {{< blocks/card-item-text >}}
 Create, edit or convert PDF documents in your application. Includes 7 individual products for various platforms.
 {{< /blocks/card-item-text >}}
 
-{{< blocks/product-item title=".NET" href="#" class="btn-net" >}}
-{{< blocks/product-item title="JAVA" href="#" class="btn-java" >}}
-{{< blocks/product-item title="C++" href="#" class="btn-c" >}}
+{{< blocks/product-item title=".NET" href="/pdf/net/" class="btn-net" >}}
+{{< blocks/product-item title="JAVA" href="/pdf/java/" class="btn-java" >}}
+{{< blocks/product-item title="C++" href="/pdf/cpp/" class="btn-c" >}}
 {{< /blocks/product-card >}}
 
 {{< blocks/product-card title="**Aspose.Cells**" href="#" >}}
