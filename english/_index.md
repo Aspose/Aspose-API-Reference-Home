@@ -90,7 +90,6 @@ Create, process and convert images in your application. Includes 3 individual pr
 {{< blocks/product-item title="JAVA" href="/imaging/java/" class="btn-java" >}}
 {{< blocks/product-item title="PYTHON via .NET" href="/imaging/python-net/" class="btn-python" >}}
 
-
 {{< /blocks/product-card >}}
 
 {{< blocks/product-card title="**Aspose.BarCode**" href="barcode" >}}
