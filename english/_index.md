@@ -4,7 +4,7 @@ weight: 10
 description: API reference and code snippets for working with Aspose.Words, Aspose.PDF, and other Aspose products. References are available for .NET, Java, C++, and more. 
 ---
 
-{{< blocks/hero title="Aspose API References" subtitle="Reference documentation and code snippets for every Aspose product, across .NET, Java, C++, Python, and more." >}}
+{{< blocks/hero eyebrow="Comprehensive API Documentation" title="Aspose API References" subtitle="Reference documentation and code snippets for every Aspose product, across .NET, Java, C++, Python, and more." >}}
 
 {{< blocks/product-section color="white">}}
 
